@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "start": "00:00",
+    "end": "00:20",
+    "text": "This is a podcast about AI and technology.",
+    "summary": "Intro to AI podcast",
+    "keywords": ["AI", "technology"]
+  },
+  {
+    "id": 2,
+    "start": "00:20",
+    "end": "00:40",
+    "text": "We discuss machine learning and future trends.",
+    "summary": "ML discussion",
+    "keywords": ["machine learning", "future"]
+  }
+]
